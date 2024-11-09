@@ -19,11 +19,11 @@ npm install antd
 To clone this repo, run
 
 ```bash
-git clone https://github.com/oyingrace/skeleton_example.git
+git clone https://github.com/oyingrace/skeleton-example.git
 ```
 
 ```bash
-cd skeleton_example
+cd skeleton-example
 ```
 
 ```bash
